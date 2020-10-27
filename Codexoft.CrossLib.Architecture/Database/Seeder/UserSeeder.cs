@@ -13,8 +13,8 @@ namespace Codexoft.CrossLib.Architecture.Database.Seeder
         {
             var user = new User
             {
-                Name = "Shahzad Waheed",
-                Email = "shahzadwaheed0@email.com",
+                Name = "Ahsan Tariq",
+                Email = "ahsantariq17130@gmail.com",
                 Role = UserRoles.Administrator
             };
             user.TrackEntityState();
